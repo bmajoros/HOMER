@@ -1,0 +1,10 @@
+1[upstream-intergenic]=./upstream-intergenic.hmm
+2[downstream-intergenic]=./downstream-intergenic.hmm
+3[start]=./start-codon.hmm
+4[stop]=./stop-codon.hmm
+5[exon]=./exon.hmm
+6[frameshift]=./donor-frame-shift.hmm
+7[frameshift]=./acceptor-frame-shift.hmm
+8[donor-2]=./donor.hmm
+9[acceptor-1]=./acceptor.hmm
+10=./intron.hmm
